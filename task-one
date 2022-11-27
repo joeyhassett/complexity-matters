@@ -1,1 +1,8 @@
+from bridges.bridges import *
+from bridges.line_chart import *
+import sys
+import array
 
+class one:
+  def bridges.line_chart.LineChart.__init__(self, int (10**n * 4))
+  
