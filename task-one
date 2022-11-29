@@ -6,7 +6,7 @@ import array
 def main():
 
     # create the Bridges object, set credentials
-    bridges = Bridges(2, "plumwise", "1651614968393")
+    bridges = Bridges(2, "Your Username", "Your API")
 
     # set title, description
     bridges.set_title("Complexity Matters")
